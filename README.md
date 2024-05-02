@@ -1,2 +1,2 @@
-# Pos-Puc-Desenvolvimento-Full-Stack-Fundamentos-de-Computacao-e-Algoritimos
-Repositório Criado Afim de Acumular o Conhecimento Adquirido na Disciplina de Fundamentos de Computação e Algoritmos da Pós Graduação de Desenvolvimento FullStack da PUCRS
+# Pós Graduação Desenvolvimento Full-Stack - PUCRS. Disiplina: Fundamentos de Computação e Algoritmos.
+Repositório utilizado para o fim de acumular o conhecimento adquirido na disciplina de Fundamentos de Computação e Algoritmos da Pós PUCRS-Desenvolvimento Full-Stack
